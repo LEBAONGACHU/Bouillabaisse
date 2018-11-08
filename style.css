@@ -12,20 +12,20 @@ h1 {
 font-size: 70px;
 font-family: 'Mali',sans-serif;
 color: white;
-padding :30px;
-margin :0px;
+padding: 30px;
+margin: 0px;
 }
 .montitre {
   position: relative;
   top: 20vh;
   width : 90%;
-  margin:auto;
+  margin: auto;
   text-align: center;
 }
 
 #index img {
-margin:5px;
-border:solid;
+margin: 5px;
+border: solid;
 margin-left: 480px;
 }
 #section1{text-align:center;}
